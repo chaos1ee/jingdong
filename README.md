@@ -1,2 +1,2 @@
-#仿京东主页
+# 仿京东主页
 ![](screenCapture.png)
