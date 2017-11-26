@@ -1,0 +1,29 @@
+{
+  "name": "jingdong",
+  "version": "0.0.1",
+  "description": "A website mock form Jingdong.",
+  "engines": {
+    "node": "^8.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maybeeee/jingdong.git"
+  },
+  "keywords": [
+    "jingdong"
+  ],
+  "author": "lihao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maybeeee/jingdong/issues"
+  },
+  "homepage": "https://github.com/maybeeee/jingdong#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
